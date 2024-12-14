@@ -5,4 +5,7 @@ I felt that that Threats Manager Studio is in excellent tool for threat modeling
 
 I plan to upload more content on Threats Manager Studio stay tuned .
 
+Till then use the videos to understand how to use Threats Manager Studio - https://www.youtube.com/@threatsmanagerstudio
+
+
 
